@@ -1,9 +1,11 @@
-# 🌸 Tradutor Literário  tradutor-zombie
-Tradução do japonês (ou inglês/coreano) para português fluindo lindamente
+
 
 # 🌸 Tradutor Literário - Por Dev Jaine Silva
 
 Um projeto encantado que vai além da simples tradução: transforma palavras em poesia. Traduz textos do inglês, japonês ou coreano para o português com um toque literário e estético.
+
+
+![Captura de tela_23-3-2025_212230_](https://github.com/user-attachments/assets/d6226e12-36cc-4875-a0a4-42625595ee5f)
 
 ---
 
@@ -56,14 +58,14 @@ Um projeto encantado que vai além da simples tradução: transforma palavras em
 > *"Eles te consumiram e cuspiram...*  
 > *Mas tu permaneces — entre a melancolia serena e o sussurro da alma."
 
----
+![Captura de tela_23-3-2025_212140_](https://github.com/user-attachments/assets/7c4d1626-68e4-4998-915b-1b576cd26b53)
+
 
 ## 🧚‍♀️ Autoria
 
 Criado com 💖 por **Dev Jaine Silva**  
 Transformando código em literatura e literatura em código ✍️
 
-[🔗 GitHub](https://github.com/JaineCassimiro/Tradutor)
 
 ---
 
